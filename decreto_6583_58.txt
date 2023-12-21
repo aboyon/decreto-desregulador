@@ -20,7 +20,7 @@ ARTICULO 6º- Será obligatoria la inscripción del dominio en el Registro Nacio
 
 La primera inscripción del dominio de un automotor, se practicará en la forma que lo determine la reglamentación.
 
-A todo automotor se le asignará al Inscribirse en el Registro por primera vez, un documento individualizante que será expedido por el Registro respectivo y se denominará "Título del Automotor". Este tendrá carácter de instrumento público respecto de la individualización del automotor y de la existencia en el Registro de las inscripciones que en el se consignen, pero solo acreditará las condiciones del dominio y de los gravámenes que afecten al automotor, hasta la fecha de anotación de dichas constancias en el mismo.
+A todo automotor se le asignará al inscribirse en el Registro por primera vez un documento individualizante en formato físico o digital que será expedido por el Registro respectivo y se denominará “Título del Automotor”. Este tendrá carácter de instrumento público respecto de la individualización del automotor y de la existencia en el Registro de las inscripciones que en él se consignen, pero solo acreditará las condiciones del dominio y de los gravámenes que afecten al automotor, hasta la fecha de anotación de dichas constancias en el mismo.
 
 TITULO II- Del Registro
 
@@ -30,41 +30,29 @@ El Poder Ejecutivo Nacional reglará la organización y el funcionamiento del me
 
 En los Registros Seccionales se inscribirá el dominio de los automotores, sus modificaciones, su extinción, sus transmisiones y gravámenes. También se anotarán en ellos los embargos y otras medidas cautelares, las denuncias de robo o hurto y demás actos que prevea este cuerpo legal o su reglamentación.
 
-El Poder Ejecutivo Nacional podrá disponer que determinadas inscripciones o anotaciones se cumplan ante la Dirección Nacional, en forma exclusiva o concurrente con los Registros Seccionales, cuando fuere aconsejable para el mejor funcionamiento del sistema registral.
+Dichas inscripciones o anotaciones también podrán realizarse directamente ante la Dirección Nacional, que deberá establecer a tal efecto un servicio de inscripción remoto, abierto, accesible y estandarizado, bajo jurisdicción nacional, que permita las inscripciones o anotaciones ordenadas por los titulares o por intermediarios autorizados de manera fehaciente por ellos. A tal efecto, el Poder Ejecutivo Nacional dictará la reglamentación correspondiente.
 
-ARTICULO 8º- La Dirección Nacional controlará el funcionamiento de los Registros Seccionales, realizará las tareas registrales específicas que determine la reglamentación, y dispondrá el archivo ordenado de copias de los instrumentos que se registren.
+La Dirección Nacional recabará toda la información necesaria para poner en funcionamiento ese registro tanto a automotores por registrarse como a los ya registrados.
 
-Con observancia de los requisitos que se reglamenten podrán ser microfilmados dichos instrumentos y los respectivos antecedentes que se archiven. Los microfilmes autenticados por el Director Nacional o el funcionario que se designe, tendrán a los fines registrales la misma validez que los originales.
+El Poder Ejecutivo Nacional podrá disponer que determinadas inscripciones y anotaciones se cumplan únicamente ante la Dirección Nacional cuando fuere aconsejable para el mejor funcionamiento del sistema registral.
 
-ARTICULO 9º- Los trámites que se realicen ante el Registro Nacional de la Propiedad del Automotor, deberán abonar el arancel que fije el Poder Ejecutivo Nacional, salvo los casos expresamente exceptuados por la reglamentación.
+ARTÍCULO 8º.- La Dirección Nacional controlará el funcionamiento de los Registros Seccionales, realizará las tareas registrales específicas que determine la reglamentación, y dispondrá el archivo ordenado de copias de los instrumentos que se registren. Dicho registro será electrónico y de acceso público.
 
-No podrá restringirse o limitarse la inmediata inscripción del dominio de los automotores o de sus transmisiones, por normas de carácter administrativo ajenas a los aranceles del Registro.
+ARTÍCULO 9º.- Los trámites que se realicen ante los Registros Seccionales de la Propiedad del Automotor deberán abonar el arancel que fije el Poder Ejecutivo Nacional, salvo los casos expresamente exceptuados por esta norma y la reglamentación.
 
-Las personas físicas o jurídicas registradas en el Organismo de Aplicación como comerciantes habituales en la compraventa de automotores, deberán inscribir a su nombre los automotores usados que adquieran para la reventa posterior. En tal caso no abonarán arancel alguno por el acto y por su inscripción, siempre que dentro de los NOVENTA (90) días contados desde esta última la reventa se realice e inscriba. Si ello no ocurre, el arancel se deberá abonar dentro de los CINCO (5) días de vencido dicho plazo; y a partir del sexto día el arancel se incrementará con el recargo por mora que fije el Poder Ejecutivo Nacional.
+Los aranceles que establezca el Poder Ejecutivo Nacional para los trámites digitales ante la Dirección Nacional no podrán superar el valor del arancel a que se refiere el párrafo anterior.
 
-El beneficio que otorga este artículo no regirá cuando el adquirente y el vendedor sean comerciantes habituales, y este último haya hecho uso de la exención al efectuar su adquisición. El Organismo de Aplicación establecerá los requisitos que deberán cumplir los interesados para inscribirse como comerciantes habituales en la compraventa de automotores, y las causas por las cuales se suspenderá o cancelará esa inscripción.
+No podrá restringirse o limitarse la inmediata inscripción del dominio de los automotores o de sus transmisiones por normas de carácter administrativo ajenas a los aranceles del Registro. La existencia de deudas en situación regular por multas o patentes tampoco podrá impedir la inscripción o transmisión de automotores en el Registro.
 
-ARTICULO 10.- En las inscripciones del dominio de automotores nuevos, de fabricación nacional o importados, el Registro deberá protocolizar con la solicitud respectiva, el certificado de origen del vehículo que a esos fines expedirá el organismo de aplicación, a petición de los respectivos fabricantes e importadores.
+Las personas humanas o jurídicas registradas en el Organismo de Aplicación como comerciantes habituales en la compraventa de automotores deberán inscribir a su nombre los automotores usados que adquieran para la reventa posterior.
 
-En el caso de automotores armados fuera de fábrica, o de sus plantas de montaje, deberá justificarse fehacientemente el origen de los elementos utilizados, los que podrán ser de fabricación artesanal, en la forma en que lo determine el organismo de aplicación, quien resolverá en definitiva acerca de la procedencia o no de las inscripciones de estos tipos de automotores.
+El Organismo de Aplicación establecerá los requisitos que deberán cumplir los interesados para inscribirse como comerciantes habituales en la compraventa de automotores y las causas por las cuales se suspenderá o cancelará esa inscripción.
 
-En todos los casos deberá acreditarse asimismo el cumplimiento de las condiciones de seguridad activa y pasiva para circular en la forma que determine la normativa específica en la materia. El incumplimiento de este recaudo no impedirá la adquisición del dominio, sin perjuicio de lo cual el Registro no emitirá la correspondiente cédula de identificación a la que se refiere el artículo 22 del presente.
+ARTÍCULO 10.- En las inscripciones de dominio de automotores armados fuera de fábrica, o de sus plantas de montaje, deberá justificarse fehacientemente el origen de los elementos utilizados, los que podrán ser de fabricación artesanal, en la forma en que lo determine el organismo de aplicación, quien resolverá en definitiva acerca de la procedencia o no de las inscripciones de estos tipos de automotores.
 
-(Artículo sustituido por art. 2° de la Ley Nº 26.348 B.O. 21/01/2008)
+El titular que transfiera un automotor podrá asimismo dejar sentado en el Registro el cumplimiento de las condiciones de seguridad activa y pasiva para circular en la forma que determine la normativa específica en la materia. La ausencia de esta anotación en ningún caso podrá impedir la inscripción o transferencia del automotor.
 
-ARTICULO 11.- El automotor tendrá como lugar de radicación, para todos sus efectos, el del domicilio del titular del dominio o el de su guarda habitual. Tales circunstancias se acreditarán mediante los recaudos que establezca la autoridad de aplicación.
-
-ARTICULO 12.- El cambio de radicación de un automotor podrá ser solicitado:
-
-a) Por el titular de su dominio, presentando a tal efecto el título del automotor:
-
-b) Por el adquirente radicado en otra jurisdicción que justifique su interés mediante la presentación de la solicitud tipo de inscripción a que hace referencia el artículo 14.
-
-En caso de existir medidas judiciales precautorias sobre el automotor cuyo cambio de radicación se gestiona, solo podrá autorizarse dicho cambio cuando obren en poder del Registro la correspondiente orden judicial.
-
-El cambio de radicación no se tendrá por realizado, hasta tanto no se reciba en el Registro Seccional de la nueva radicación el legajo del automotor donde consten sus antecedentes, inscripciones y anotaciones, el que deberá ser remitido dentro de los TRES (3) días de peticionado. La remisión del legajo podrá ser suplida por otros medios de información, cuando los adelantos técnicos así lo permitan. En tal caso, por vía reglamentaria se determinarán dichos medios de información, y la oportunidad en que se tendrá por realizado el cambio de radicación
-
-ARTICULO 13.- Los pedidos de inscripción o anotación en el Registro, y en general los trámites que se realicen ante él, solo podrán efectuarse mediante la utilización de las solicitudes tipo que determine el Organismo de Aplicación, el que fijará su contenido y demás requisitos de validez.
+ARTÍCULO 13.- Los pedidos de inscripción o anotación en el Registro, y en general los trámites que se realicen ante él, solo podrán efectuarse mediante la utilización de las solicitudes tipo que determine el Organismo de Aplicación, el que fijará su contenido y demás requisitos de validez. Estos documentos podrán ser de carácter electrónico.
 
 Cuando las solicitudes tipo no se suscribieren por los interesados ante el Encargado de Registro, deberán presentarse con las firmas certificadas en la forma y por las personas que establezca el Organismo de Aplicación.
 
@@ -76,15 +64,15 @@ Si las solicitudes tipo no se encontraren suscriptas por las partes o por sus re
 
 Los mandatos para hacer transferencias de automotores, o para realizar trámites o formular peticiones ante el Registro o el Organismo de Aplicación, caducarán a los NOVENTA (90) días de su otorgamiento, excepto cuando las facultades aludidas estén contenidas en poderes generales o se tratare de poderes para interponer recursos administrativos o judiciales.
 
-ARTICULO 14.-Los contratos de transferencia de automotores que se formalicen por instrumento privado, se inscribirán en el Registro mediante la utilización de las solicitudes tipo mencionadas en el artículo anterior, suscriptos por las partes,
+ARTÍCULO 14.- Los contratos de transferencia de automotores que se formalicen por instrumento privado se inscribirán en el Registro mediante la utilización de las solicitudes tipo mencionadas en el artículo anterior, suscriptos por las partes.
 
-Cuando la transferencia se formalice por instrumento público o haya sido dispuesta por orden judicial o administrativa, se presentará para su inscripción junto con el testimonio u oficio correspondiente, la solicitud tipo de inscripción suscripta por el escribano autorizante o por la autoridad judicial o administrativa.
+Cuando la transferencia se formalice por instrumento público o haya sido dispuesta por orden judicial o administrativa, se presentará para su inscripción junto con el testimonio u oficio correspondiente, la solicitud tipo de inscripción suscripta por el autorizante o por la autoridad judicial o administrativa.
 
-En todos los casos se presentará el título de propiedad del automotor.
+En todos los casos se presentará el título de propiedad del automotor, en forma física o digital.
 
 En las transferencias dispuestas por autoridad judicial, se transcribirá textualmente la parte pertinente del auto que la ordena.
 
-Un duplicado del contrato de transferencia será presentado por el adquirente ante la Municipalidad del lugar donde quedare radicado el vehículo.
+La Municipalidad en donde se domicilie la persona humana o jurídica titular del automotor inscripto será notificada del contrato de transferencia.
 
 ARTICULO 15.-La inscripción en el Registro de la transferencia de la propiedad de un automotor, podrá ser peticionada por cualquiera de las partes. No obstante, el adquirente asume la obligación de solicitarla dentro de los DIEZ (10) días de celebrado el acto, mediante la presentación de la solicitud prescripta en los artículos 13 y 14. En caso de incumplimiento de esta obligación, el transmitente podrá revocar la autorización para circular con el automotor que, aún implícitamente mediante la entrega de la documentación a que se refiere el artículo 22, hubiere otorgado al adquirente, debiendo comunicar esa circunstancia al Registro, a los efectos previstos en el artículo 27.
 
@@ -94,9 +82,9 @@ El Encargado del Registro ante el cual se peticione la inscripción de la transf
 
 Una vez hecha la inscripción el Encargado del Registro dará constancia de ella en el título del automotor, en el cual actualizará también las demás anotaciones que existan en el mismo.
 
-ARTICULO 16.-A los efectos de la buena fe previstos en los artículos 2º, 3º y 4º del presente, se presume que los que adquieren derechos sobre un automotor, conocen las constancias de su inscripción y de las demás anotaciones que respecto de aquel obran en el Registro de la Propiedad del Automotor, aún cuando no hayan exigido del titular o del disponente del bien, la exhibición del certificado de dominio que se establece en este artículo.
+ARTÍCULO 16.- A los efectos de la buena fe previstos en los artículos 2º, 3º y 4º del presente, se presume que los que adquieren derechos sobre un automotor, conocen las constancias de su inscripción y de las demás anotaciones que respecto de aquel obran en el Registro de la Propiedad del Automotor, aun cuando no hayan exigido del titular o del disponente del bien, la exhibición del certificado de dominio que se establece en este artículo.
 
-El Registro otorgará al titular de dominio o a la autoridad judicial que lo solicite un certificado de las constancias de su inscripción y demás anotaciones que existan el que tendrá una validez de QUINCE (15) días a partir de la fecha de su emisión y de cuyo libramiento se dejará nota en sus antecedentes. Este certificado podrá ser requerido al titular del dominio en las transferencias del automotor o en la constitución de gravámenes, por los interesados en dichas operaciones, las que se inscribirán dentro del plazo de validez.
+Durante un período de QUINCE (15) días los embargos y demás anotaciones que se soliciten con respecto al automotor tendrán carácter condicional y solo quedarán firmes y producirán sus efectos legales una vez vencido dicho plazo, siempre que no hayan modificado el dominio o la situación jurídica del automotor.
 
 Durante el mismo plazo de validez, los embargos y demás anotaciones que se soliciten con respecto al automotor tendrán carácter condicional y solo quedarán firmes y producirán sus efectos legales una vez vencido dicho plazo, siempre que no hayan modificado el dominio o la situación jurídica del automotor. Idéntico plazo de validez tendrá el certificado a que se refiere el artículo 18, del Decreto-Ley Nº 15.348/46, ratificado por Ley Nº 12.962., en los casos de transferencia de automotores sometidos al régimen presente.
 
@@ -116,9 +104,9 @@ b) La prenda sobre automotores se registrará con sujeción a las normas del pre
 
 c) El Registro Nacional de la Propiedad del Automotor llevará un registro de acreedores prendarios, que actuarán como tales ante el organismo de acuerdo con el artículo 5º del Decreto-Ley 15.348/46.
 
-d) La anotación de los endosos de contratos de prenda deberá hacerse en el Registro Seccional donde se haya inscripto el contrato, pero el Registro Nacional de la Propiedad del Automotor (Registro Nº 1 de la Capital Federal) podrá, a requerimiento de los interesados, aunque el contrato este inscripto en otro registro, anotar los endosos y cancelaciones previa notificación, al registro de origen, de los datos necesarios, siendo por cuenta del solicitante los gastos respectivos;
+d) La anotación de los endosos de contratos de prenda podrá hacerse en cualquier Registro Seccional o directamente en el servicio de inscripción remoto de la Dirección Nacional;
 
-e) Las certificaciones y trámites ulteriores correspondientes a contratos de prenda inscriptos hasta el día anterior al cambio de régimen que disponga el Poder Ejecutivo Nacional, seguirán a cargo del Registro Nacional de Créditos Prendarios.
+e) Los trámites ulteriores correspondientes a contratos de prenda inscriptos hasta el día anterior al cambio de régimen que disponga el Poder Ejecutivo Nacional seguirán a cargo del Registro Nacional de Créditos Prendarios.
 
 TITULO III - Del título del automotor
 
@@ -140,11 +128,15 @@ g) Modificaciones introducidas al vehículo siempre que ellas alteren algunos de
 
 Deberán consignarse, además, en el título del automotor, las constancias de inscripción en el Registro de instrumentos públicos o privados: 1) de prenda o locación referentes al vehículo, con indicación del nombre, apellido y domicilio del acreedor o locatario, plazo y monto de la obligación prendaria; 2) De transferencia de dominio, con los datos personales o sociales, domicilio, documentos de identidad y clave o código de identificación del adquirente 3) de toda inscripción que afecte el dominio, posesión o uso del automotor, que estuviere vigente al presentarse el título en el registro y no figurase en él. (Apartado 2 inc. g) sustituido por art. 5° Ley N° 25.345 B.O. 17/11/2000)
 
-ARTICULO 21.- En caso de pérdida, extravío o destrucción involuntaria, deficiente conservación o alteración material derivada exclusivamente del título o en cualquier otro caso en que, sin mediar la comisión de un delito, dicho documento quedara en condiciones ilegibles o motivara dudas acerca de su legitimidad, el Registro Nacional de la Propiedad del Automotor expedirá un duplicado con indicación de la causa, y constancias de todas las inscripciones vigentes en el registro, debiendo, en su caso, retener el ejemplar inutilizado.
+ARTÍCULO 22.- Sin perjuicio de la expedición del título a que se refiere el artículo 20, juntamente con la inscripción originaria, o con cada una de las correspondientes a las sucesivas transferencias de dominio, el Registro entregará al titular del automotor una o más cédulas de identificación de este, en las que se consignarán los datos que, con respecto al automotor y a su propietario, establezca la autoridad de aplicación.
 
-ARTICULO 22.- Sin perjuicio de la expedición del título a que se refiere el artículo 20, juntamente con la inscripción originaria, o con cada una de las correspondientes a las sucesivas transferencias de dominio, el Registro entregará al titular del automotor una o más cédulas de identificación de éste, en las que se consignarán los datos que, con respecto al automotor y a su propietario, establezca la autoridad de aplicación. Dichas cédulas deberán ser devueltas por el enajenante del automotor, expidiéndose nuevas para el adquirente. Su tenencia acreditará derecho o autorización para usar el automotor, pero no eximirá de la obligación de justificar la habilitación personal para conducir. La cédula, la licencia para conducir y el comprobante de pago de patente son los únicos documentos exigibles para circular con el automotor, y las autoridades provinciales o municipales no podrán establecer otros requisitos para su uso legítimo. Será obligatorio exhibir esos documentos a la autoridad competente, pero no podrán ser retenidos si no mediare denuncia de hurto o robo del automotor u orden de autoridad judicial.
+Las cédulas se entregarán digitalmente, las que tendrán la misma validez que las físicas. El adquirente podrá pedir una o varias cédulas físicas las que podrán tener un costo. Dichas cédulas deberán ser devueltas por el enajenante del automotor, expidiéndose nuevas para el adquirente.
 
-ARTICULO 23.- El Organismo de Aplicación determinará los distintos tipos de cédulas que se expedirán, su termino de vigencia y forma de renovación. También podrá requerir la colaboración de las autoridades que determine el Poder Ejecutivo Nacional para controlar que los automotores circulen con la documentación correspondiente, para verificar cambios o adulteraciones en las partes que lo conforman como tal, y para fiscalizar que las transferencias se inscriban en el Registro dentro del término fijado por esta ley. Asimismo, podrá disponer la exhibición de los automotores y su documentación y la presentación de declaraciones juradas al respecto.
+Su tenencia acreditará derecho o autorización para usar el automotor, pero no eximirá de la obligación de justificar la habilitación personal para conducir. La cédula, la licencia para conducir y el comprobante de pago de patente son los únicos documentos exigibles para circular con el automotor, y las autoridades provinciales o municipales no podrán establecer otros requisitos para su uso legítimo.
+
+Será obligatorio exhibir esos documentos a la autoridad competente, pero no podrán ser retenidos si no mediare denuncia de hurto o robo del automotor u orden de autoridad judicial.
+
+ARTÍCULO 23.- El Organismo de Aplicación determinará los distintos tipos de cédulas que se expedirán, las cuales no caducarán mientras no haya cambios en la titularidad del vehículo. También podrá requerir la colaboración de las autoridades que determine el Poder Ejecutivo Nacional para controlar que los automotores circulen con la documentación correspondiente, para verificar cambios o adulteraciones en las partes que lo conforman como tal, y para fiscalizar que las transferencias se inscriban en el Registro dentro del término fijado por esta ley. Asimismo, podrá disponer la exhibición de los automotores y su documentación y la presentación de declaraciones juradas al respecto.
 
 El que se negare a exhibir a la autoridad competente la cédula de identificación del automotor, o que no justificare fehacientemente la imposibilidad material de suministrarla, será sancionado por el Organismo de Aplicación con una multa equivalente al precio de DIEZ (10) a DOSCIENTOS (200) litros de nafta común.
 
@@ -170,7 +162,7 @@ El automotor secuestrado quedará bajo depósito, en custodia del organismo de A
 
 Una vez efectuada la comunicación, el transmitente no podrá hacer uso del automotor, aunque le fuese entregado o lo recuperase por cualquier título o modo sin antes notificar esa circunstancia al Registro. La violación de esa norma será sancionada con la pena prevista en el artículo.
 
-Además los registros seccionales del lugar de radicación del vehículo notificarán a las distintas reparticiones oficiales provinciales y/o municipales la denuncia de la tradición del automotor, a fin de que procedan a la sustitución del sujeto obligado al tributo (patente, impuestos, multas, etcétera) desde la fecha de la denuncia, desligando a partir de la misma al titular trasmitente. (Párrafo incorporado por art. 1° de la Ley N° 25.232 B.O. 31/12/1999)
+Efectuada la denuncia de la tradición del automotor, se procederá a la sustitución del sujeto obligado al tributo (patente, impuestos, multas, etcétera) desde la fecha de la denuncia, desligando a partir de la misma al titular transmitente de todo tipo de responsabilidad legal sobre el mismo.
 
 ARTICULO 28.- El propietario del automotor que resuelva retirarlo definitivamente del uso por no estar en condiciones de servir para su destino específico, deberá dar inmediata cuenta a la autoridad competente, quien procederá a retirar el título respectivo y practicará las anotaciones pertinentes en el registro. La autoridad policial y las compañías aseguradoras deberán igualmente comunicar al Registro los siniestros que ocurrieran a los automotores, siempre que estos sean de tal naturaleza que alteren sustancialmente las características individualizantes de los mismos.
 
@@ -231,3 +223,5 @@ El plazo para dictar sentencia será de sesenta (60) días hábiles judiciales d
 Dentro del plazo que el Poder Ejecutivo establezca para remitir las actuaciones el Tribunal, quien dictó la resolución recurrida podrá revocarla por contrario imperio. Dentro del mismo plazo, el Organismo de Aplicación, cuando se tratare de decisiones de los Encargados de Registro, o el Ministerio de Justicia, cuando se tratare de decisiones de este último, podrán dejar sin efecto el acto impugnado.
 
 ARTICULO 38.- El Organismo de Aplicación queda legitimado para iniciar acciones con el objeto de obtener la declaración de nulidad de las inscripciones registrales o de los documentos que las acrediten.
+
+Cláusula transitoria. La Dirección Nacional deberá hacer efectiva la puesta en marcha de su registro remoto, abierto, estandarizado y accesible a más tardar el 2 de mayo de 2024.
